@@ -1,6 +1,5 @@
 body{
-	background-color: mintcream;
-	color:green;
+	background-color: orangered;
 	font-family:arial;
 }
 h1{text-align: center;
@@ -16,4 +15,13 @@ h3{text-align: center;
 }
 h4{text-align: center
    color:orangered;
+}
+table,th,td{border:1px solid black;
+	width:50%;
+}
+nav{text-align:right; 
+    justify-content:right;
+    padding:0;
+    margin:20;
+    font-weight:bold;
 }
