@@ -25,3 +25,7 @@ nav{text-align:right;
     margin:20;
     font-weight:bold;
 }
+.card{
+   background-color: yellow;
+   border-radius: 10px;
+}
